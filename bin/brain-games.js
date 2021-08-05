@@ -1,2 +1,7 @@
 #!/usr/bin/env node 
-console.log("Brain-Games start");
+import { username } from "../src/cli.js";
+
+username();
+
+
+
