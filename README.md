@@ -18,3 +18,6 @@
 
 <h2> Asciinema for Brain GCD Game</h2>
 <a href="https://asciinema.org/a/GA75FEpmSnw46rkStn1OmlhjK" target="_blank"><img src="https://asciinema.org/a/GA75FEpmSnw46rkStn1OmlhjK.svg" /></a>
+
+<h2> Asciinema for Brain Progression Game</h2>
+<a href="https://asciinema.org/a/wQ8pZtcjRp7HtTbNDZcFsonPI" target="_blank"><img src="https://asciinema.org/a/wQ8pZtcjRp7HtTbNDZcFsonPI.svg" /></a>
