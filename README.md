@@ -6,3 +6,7 @@
 
 <h2> Asciinema for Brain Even Game</h2>
 <a href="https://asciinema.org/a/wEGA7O2ufwwfTgS2ElhIGWQNW" target="_blank"><img src="https://asciinema.org/a/wEGA7O2ufwwfTgS2ElhIGWQNW.svg" /></a>
+
+<h2> Asciinema for Brain Calc Game</h2>
+
+<script id="asciicast-JdNgKmLYk4QwIFFPVEGQNRmQM" src="https://asciinema.org/a/JdNgKmLYk4QwIFFPVEGQNRmQM.js" async></script>
