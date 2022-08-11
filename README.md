@@ -9,4 +9,4 @@
 
 <h2> Asciinema for Brain Calc Game</h2>
 
-<script id="asciicast-JdNgKmLYk4QwIFFPVEGQNRmQM" src="https://asciinema.org/a/JdNgKmLYk4QwIFFPVEGQNRmQM.js" async></script>
+<a href="https://asciinema.org/a/JdNgKmLYk4QwIFFPVEGQNRmQM" target="_blank"><img src="https://asciinema.org/a/JdNgKmLYk4QwIFFPVEGQNRmQM.svg" /></a>
