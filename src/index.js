@@ -20,7 +20,7 @@ const game = (gameRule, gameRound) => {
     }
     console.log(result);
   }
-  console.log(`Congratulations, ${userName}`);
+  console.log(`Congratulations, ${userName}!`);
 };
 
 export default game;
