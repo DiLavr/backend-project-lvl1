@@ -34,7 +34,7 @@
 
 Перейдите в папку:
 
-`$ cd frontend-project-lvl1`
+`$ cd backend-project-lvl1`
 
 Установите зависимости:
 
